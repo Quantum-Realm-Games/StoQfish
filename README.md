@@ -1,3 +1,5 @@
+StoQfish is a fork of the Stockfish UCI chess engine, that we're attempting to modify to help with Quantum Chess AI
+
 ## Overview
 
 [![Build Status](https://travis-ci.org/official-stockfish/Stockfish.svg?branch=master)](https://travis-ci.org/official-stockfish/Stockfish)
